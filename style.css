@@ -6,7 +6,7 @@
     height: 650px;
 }
 .item{
-    background-color: lightpink;
+    background-color: black;
     color: black;    /* changes the text color */
     font-size: 30px;      /* changes text size */
     padding: 10px;        /* adds space around the text inside the div box */
