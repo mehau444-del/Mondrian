@@ -5,19 +5,20 @@
     grid-gap: 10px;       /* this adds 10px of space between all rows and columns */ 
     height: 650px;
 }
-.Item{
-    background-color: rgb(248, 133, 221);
-    color: rgb(0, 0, 0);    /* changes the text color */
-    font-size: 30px;      /* changes text size */
-    padding: 10px;        /* adds space around the text inside the div box */
-    text-align: center;   /* pretty self-explanatory */
-    font-family: 'Montserrat',sans-serif;   /* changes typeface */
-}
 
 .thing1{
     grid-column-start: 1;  /* item starts on column line 1 */
     grid-column-end: 3;    /* item ends on column line 3 */
     grid-row-start: 1;
     grid-row-end: 4;
+}
+
+.Item {
+    background-color: rgb(248, 133, 221);
+    color: black;
+    font-size: 30px;
+    padding: 20px;
+    height: 650px;
+
 }
 
