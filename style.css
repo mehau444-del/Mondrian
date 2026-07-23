@@ -6,7 +6,7 @@
     height: 650px;
 }
 .item{
-    background-color: rgb(56, 13, 230);
+    background-color: rgb(241, 184, 228);
     color: black;    /* changes the text color */
     font-size: 30px;      /* changes text size */
     padding: 10px;        /* adds space around the text inside the div box */
@@ -17,5 +17,7 @@
 .thing1{
     grid-column-start: 1;  /* item starts on column line 1 */
     grid-column-end: 3;    /* item ends on column line 3 */
+    grid-row-start: 1;
+    grid-row-end: 4;
 }
 
