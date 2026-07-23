@@ -6,19 +6,19 @@
     height: 650px;
 }
 
-.thing1{
-    grid-column-start: 1;  /* item starts on column line 1 */
-    grid-column-end: 3;    /* item ends on column line 3 */
-    grid-row-start: 2;
-    grid-row-end: 4;
-    background-color: cornsilk;
-}
-
 .Item {
     background-color: rgb(92, 213, 237);
     color: black;
     font-size: 30px;
     padding: 10px;
 
+}
+
+.thing1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 4; 
+    background-color: cornsilk;
 }
 
