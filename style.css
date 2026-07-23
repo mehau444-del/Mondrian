@@ -1,5 +1,5 @@
 .container{
-    background-color:rgb(23, 205, 233);
+    background-color:rgb(0, 221, 255);
     display: grid;
     grid-template-columns: auto auto auto auto;   /* this creates 4 columns of equal width */
     grid-gap: 10px;       /* this adds 10px of space between all rows and columns */ 
@@ -7,7 +7,7 @@
 }
 
 .Item {
-    background-color: rgb(92, 213, 237);
+    background-color: rgb(137, 227, 245);
     color: black;
     font-size: 30px;
     padding: 10px;
