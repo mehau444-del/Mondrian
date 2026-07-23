@@ -5,7 +5,7 @@
     grid-gap: 10px;       /* this adds 10px of space between all rows and columns */ 
     height: 650px;
 }
-.item{
+.Item{
     background-color: rgb(248, 133, 221);
     color: rgb(0, 0, 0);    /* changes the text color */
     font-size: 30px;      /* changes text size */
