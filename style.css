@@ -1,5 +1,5 @@
 .container{
-    background-color:rgb(0, 0, 0);
+    background-color:rgb(251, 251, 251);
     display: grid;
     grid-template-columns: auto auto auto auto;   /* this creates 4 columns of equal width */
     grid-gap: 10px;       /* this adds 10px of space between all rows and columns */ 
@@ -31,9 +31,16 @@
 
 .thing2{
 grid-column-start: 1;
-grid-column-end: 3;
+grid-column-end: 4;
 grid-row-start: 1;
 grid-row-end: 1;
-background-color: thistle;
+background-color: rgb(246, 220, 246);
+}
+.thing4{
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 5;
+    background-color: honeydew;
 
 }
