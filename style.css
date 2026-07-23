@@ -42,5 +42,12 @@ background-color: rgb(246, 220, 246);
     grid-row-start: 2;
     grid-row-end: 5;
     background-color: honeydew;
+}
+.thing3{
+grid-column-start: 2;
+grid-column-end: 4;
+grid-row-start: 4;
+grid-row-end: 4;
+background-color: lightblue;
 
 }
