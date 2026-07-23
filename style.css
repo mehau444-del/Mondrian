@@ -28,3 +28,12 @@
     grid-row-end: 3;
     background-color: rgb(255, 224, 224);
 }
+
+.thing2{
+grid-column-start: 1;
+grid-column-end: 3;
+grid-row-start: 1;
+grid-row-end: 1;
+
+
+}
